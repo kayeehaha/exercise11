@@ -1,0 +1,10 @@
+1,Rice,1,3.0
+2,Lentils,1,4.5
+3,Bread,0.3,3.0
+4,Garlic,1,2.5
+5,Ginger,1,3.0
+6,Spinach,0.5,5.0
+7,Oranges,0.7,4.5
+8,Apples,0.5,4.0
+9,Banana,0.35,2.2
+10,Butter,0.5,4.75
